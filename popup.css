@@ -1,0 +1,33 @@
+body {
+  width: 200px;
+  padding: 10px;
+  background-color: #000; /* Pure black */
+  color: #fff; /* White text */
+}
+
+.neon-input {
+  background-color: #222; /* Darker shade of black */
+  color: #fff; /* White text */
+  border: 1px solid #fff; /* White border */
+  padding: 5px;
+  width: 70%;
+  margin-right: 5px;
+}
+
+.neon-button {
+  background-color: #222; /* Darker shade of black */
+  color: #fff; /* White text */
+  border: 1px solid #fff; /* White border */
+  padding: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.neon-button:hover {
+  background-color: #333; /* Slightly lighter shade of black */
+}
+.taskCount{
+  font-size: 50px;
+  font-weight: 500;
+  
+}
